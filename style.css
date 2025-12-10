@@ -1,6 +1,7 @@
 body{
     background-color: aqua;
     text-align: center;
+    container: calc();
 }
 h1{
     color:blueviolet
